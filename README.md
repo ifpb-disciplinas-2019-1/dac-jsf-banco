@@ -39,6 +39,7 @@ Deve ser possível selecionar um `Integrante` e associar sua instância ao atrib
 * **RF07** - Criar uma página que permita realizar uma busca por `CPF`; 
 * **RF08** - Criar uma página que permita realizar uma busca por `localDeOrigem`; 
 * **RF09** - Realizar o deploy da aplicação no Docker usando uma das __images__ do [Payara](https://hub.docker.com/u/payara). 
+* **RF10** - Realizar o deploy da aplicação usando o [Docker Compose](https://docs.docker.com/compose/).
 
 
 ## Script do banco
